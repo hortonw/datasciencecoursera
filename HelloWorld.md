@@ -8,4 +8,6 @@ Markdown
 1. Another ordered list item (note numbering works automatically and does not follow user entry)
 999. (Case in point)
 
+This is a normal sentence again. 
+
     $ This is a code block
